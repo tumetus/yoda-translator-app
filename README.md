@@ -1,3 +1,5 @@
+React project I built for my YouTube channel. You can see the video here: https://youtu.be/LT8hAGnju9g .
+-----------------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
